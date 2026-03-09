@@ -19,23 +19,23 @@ export const plans = [
 ];
 
 export const attendance = [
-    { id: 1, memberName: 'Ajay Raj Bhattarai', date: '2024-02-27', time: '08:00 AM', status: 'Present' },
-    { id: 2, memberName: 'Srijal Karki', date: '2024-02-27', time: '-', status: 'Absent' },
-    { id: 3, memberName: 'Ram', date: '2024-02-27', time: '09:15 AM', status: 'Present' },
+    { id: 1, memberName: 'Ajay Raj Bhattarai', date: '2025-02-27', time: '08:00 AM', status: 'Present' },
+    { id: 2, memberName: 'Srijal Karki', date: '2025-02-27', time: '-', status: 'Absent' },
+    { id: 3, memberName: 'Ram', date: '2025-02-27', time: '09:15 AM', status: 'Present' },
 ];
 
 export const payments = [
-    { id: 1, memberName: 'Ajay Raj Bhattarai', amount: '$59', date: '2024-02-01', status: 'Paid' },
-    { id: 2, memberName: 'Srijal Karki', amount: '$29', date: '2024-02-15', status: 'Pending' },
-    { id: 3, memberName: 'Ram', amount: '$99', date: '2024-02-10', status: 'Paid' },
+    { id: 1, memberName: 'Ajay Raj Bhattarai', amount: '$599', date: '2024-02-01', status: 'Paid' },
+    { id: 2, memberName: 'Srijal Karki', amount: '$299', date: '2024-02-15', status: 'Pending' },
+    { id: 3, memberName: 'Ram', amount: '$999', date: '2024-02-10', status: 'Paid' },
 ];
 
 // For charting
 export const revenueData = [
-    { month: 'Jan', revenue: 4000 },
-    { month: 'Feb', revenue: 4500 },
-    { month: 'Mar', revenue: 4800 },
-    { month: 'Apr', revenue: 5100 },
-    { month: 'May', revenue: 4900 },
-    { month: 'Jun', revenue: 5500 },
+    { month: 'Jan', revenue: 5000 },
+    { month: 'Feb', revenue: 6500 },
+    { month: 'Mar', revenue: 7800 },
+    { month: 'Apr', revenue: 8100 },
+    { month: 'May', revenue: 9900 },
+    { month: 'Jun', revenue: 10500 },
 ];
