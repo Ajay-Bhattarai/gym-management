@@ -55,8 +55,8 @@ export const Sidebar = () => {
                         <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Admin" alt="Admin" className="h-full w-full object-cover" />
                     </div>
                     <div className="flex-1 min-w-0">
-                        <p className="text-sm font-medium text-slate-900 dark:text-white truncate">Admin User</p>
-                        <p className="text-xs text-slate-500 dark:text-slate-400 truncate">admin@fitcore.com</p>
+                        <p className="text-sm font-medium text-slate-900 dark:text-white truncate">Ajay Devgan</p>
+                        <p className="text-xs text-slate-500 dark:text-slate-400 truncate">ajaydevgan@fitcore.com</p>
                     </div>
                 </div>
             </div>
