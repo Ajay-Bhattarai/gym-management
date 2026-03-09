@@ -7,9 +7,9 @@ export const members = [
 ];
 
 export const trainers = [
-    { id: 1, name: 'John Doe', specialty: 'Weightlifting', experience: '5 Years' },
-    { id: 2, name: 'Jane Smith', specialty: 'Yoga & Pilates', experience: '8 Years' },
-    { id: 3, name: 'Mike Johnson', specialty: 'Cardio & HIIT', experience: '3 Years' },
+    { id: 1, name: 'Ajay Raj Bhattarai', specialty: 'Weightlifting', experience: '5 Years' },
+    { id: 2, name: 'Srijal Karki', specialty: 'Yoga & Pilates', experience: '8 Years' },
+    { id: 3, name: 'Himal Shrestha', specialty: 'Cardio & HIIT', experience: '3 Years' },
 ];
 
 export const plans = [
