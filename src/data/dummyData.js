@@ -2,8 +2,8 @@ export const members = [
     { id: 1, name: 'Ajay Raj Bhattarai', plan: 'Pro', status: 'Active', joined: '2023-01-15' },
     { id: 2, name: 'Srijal Karki', plan: 'Basic', status: 'Inactive', joined: '2023-05-22' },
     { id: 3, name: 'Ram', plan: 'VIP', status: 'Active', joined: '2024-02-10' },
-    { id: 4, name: 'Diana Prince', plan: 'Pro', status: 'Active', joined: '2023-11-05' },
-    { id: 5, name: 'Evan Wright', plan: 'Basic', status: 'Active', joined: '2024-01-18' },
+    { id: 4, name: 'Hari', plan: 'Pro', status: 'Active', joined: '2023-11-05' },
+    { id: 5, name: 'Bishal', plan: 'Basic', status: 'Active', joined: '2024-01-18' },
 ];
 
 export const trainers = [
