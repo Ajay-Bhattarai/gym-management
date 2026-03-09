@@ -1,7 +1,7 @@
 export const members = [
-    { id: 1, name: 'Alice Cooper', plan: 'Pro', status: 'Active', joined: '2023-01-15' },
-    { id: 2, name: 'Bob Smith', plan: 'Basic', status: 'Inactive', joined: '2023-05-22' },
-    { id: 3, name: 'Charlie Brown', plan: 'VIP', status: 'Active', joined: '2024-02-10' },
+    { id: 1, name: 'Ajay Raj Bhattarai', plan: 'Pro', status: 'Active', joined: '2023-01-15' },
+    { id: 2, name: 'Srijal Karki', plan: 'Basic', status: 'Inactive', joined: '2023-05-22' },
+    { id: 3, name: 'Ram', plan: 'VIP', status: 'Active', joined: '2024-02-10' },
     { id: 4, name: 'Diana Prince', plan: 'Pro', status: 'Active', joined: '2023-11-05' },
     { id: 5, name: 'Evan Wright', plan: 'Basic', status: 'Active', joined: '2024-01-18' },
 ];
@@ -19,15 +19,15 @@ export const plans = [
 ];
 
 export const attendance = [
-    { id: 1, memberName: 'Alice Cooper', date: '2024-02-27', time: '08:00 AM', status: 'Present' },
-    { id: 2, memberName: 'Bob Smith', date: '2024-02-27', time: '-', status: 'Absent' },
-    { id: 3, memberName: 'Charlie Brown', date: '2024-02-27', time: '09:15 AM', status: 'Present' },
+    { id: 1, memberName: 'Ajay Raj Bhattarai', date: '2024-02-27', time: '08:00 AM', status: 'Present' },
+    { id: 2, memberName: 'Srijal Karki', date: '2024-02-27', time: '-', status: 'Absent' },
+    { id: 3, memberName: 'Ram', date: '2024-02-27', time: '09:15 AM', status: 'Present' },
 ];
 
 export const payments = [
-    { id: 1, memberName: 'Alice Cooper', amount: '$59', date: '2024-02-01', status: 'Paid' },
-    { id: 2, memberName: 'Bob Smith', amount: '$29', date: '2024-02-15', status: 'Pending' },
-    { id: 3, memberName: 'Charlie Brown', amount: '$99', date: '2024-02-10', status: 'Paid' },
+    { id: 1, memberName: 'Ajay Raj Bhattarai', amount: '$59', date: '2024-02-01', status: 'Paid' },
+    { id: 2, memberName: 'Srijal Karki', amount: '$29', date: '2024-02-15', status: 'Pending' },
+    { id: 3, memberName: 'Ram', amount: '$99', date: '2024-02-10', status: 'Paid' },
 ];
 
 // For charting
