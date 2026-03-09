@@ -32,7 +32,7 @@ export default function Dashboard() {
     const stats = [
         { label: 'Total Members', value: members.length.toString(), icon: Users, color: 'text-blue-600', bg: 'bg-blue-100 dark:bg-blue-900/40' },
         { label: 'Active Plans', value: members.filter(m => m.status === 'Active').length.toString(), icon: CreditCard, color: 'text-emerald-600', bg: 'bg-emerald-100 dark:bg-emerald-900/40' },
-        { label: 'Monthly Revenue', value: '$24,500', icon: TrendingUp, color: 'text-violet-600', bg: 'bg-violet-100 dark:bg-violet-900/40' },
+        { label: 'Monthly Revenue', value: '$30,500', icon: TrendingUp, color: 'text-violet-600', bg: 'bg-violet-100 dark:bg-violet-900/40' },
     ];
 
     const chartData = {
