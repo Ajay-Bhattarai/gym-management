@@ -13,9 +13,9 @@ export const trainers = [
 ];
 
 export const plans = [
-    { id: 1, name: 'Basic', price: '$29/mo', features: ['Access to gym equipment', 'Locker room access', '1 free pass/month'] },
-    { id: 2, name: 'Pro', price: '$59/mo', features: ['All Basic features', 'Group classes included', 'Personal trainer advice'] },
-    { id: 3, name: 'VIP', price: '$99/mo', features: ['All Pro features', 'Unlimited PT sessions', 'Spa & sauna access'] },
+    { id: 1, name: 'Basic', price: '$299/mo', features: ['Access to gym equipment', 'Locker room access', '1 free pass/month'] },
+    { id: 2, name: 'Pro', price: '$599/mo', features: ['All Basic features', 'Group classes included', 'Personal trainer advice'] },
+    { id: 3, name: 'VIP', price: '$999/mo', features: ['All Pro features', 'Unlimited PT sessions', 'Spa & sauna access'] },
 ];
 
 export const attendance = [
