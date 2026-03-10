@@ -17,8 +17,8 @@ export default function Trainers() {
                         <div className="flex justify-between items-start mb-4">
                             <div className="h-16 w-16 rounded-2xl bg-gradient-to-br from-blue-100 to-indigo-100 dark:from-blue-900/50 dark:to-indigo-900/50 flex items-center justify-center p-1">
                                 <img
-                                    src={`https://api.dicebear.com/7.x/avataaars/svg?seed=${trainer.name}`}
-                                    alt={trainer.name}
+                                src={`https://api.dicebear.com/9.x/micah/svg?seed=${trainer.name}`}
+                                alt={trainer.name}
                                     className="rounded-xl w-full h-full object-cover"
                                 />
                             </div>
