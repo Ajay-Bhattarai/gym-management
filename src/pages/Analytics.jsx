@@ -115,7 +115,7 @@ export default function Analytics() {
                     { title: "Total Lifetime Members", val: "1,245", trend: "+12.5%" },
                     { title: "Average Retention Rate", val: "94%", trend: "+2.1%" },
                     { title: "Avg. Revenue Per User", val: "$50.50", trend: "+4.3%" },
-                    { title: "CAC", val: "$24.00", trend: "-1.5%" },
+                    { title: "CAC", val: "$30.00", trend: "-1.5%" },
                 ].map((item, idx) => (
                     <Card key={idx} className="p-6">
                         <h4 className="text-sm font-medium text-slate-500 dark:text-slate-400 mb-2">{item.title}</h4>
